@@ -68,9 +68,6 @@ width="800"  height="3">
     <img src="https://visitor-badge.glitch.me/badge?page_id=bingmeng158" alt="访客统计" title="访客统计" />
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
   <!-- GitHub 奖杯🏆 -->
   <img src="https://github-profile-trophy.vercel.app/?username=cathead1024&theme=bingmeng158&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
