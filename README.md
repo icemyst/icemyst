@@ -82,11 +82,6 @@ width="800"  height="3">
   <img src='https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
 </p>
 
-## 仓库统计
-
-![仓库统计](https://repobeats.axiom.co/api/embed/60fcf455cd02123aebe6249deabf8d48e3debcae.svg "Repobeats bingmeng158 image")
-
-
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <br/>
