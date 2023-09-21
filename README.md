@@ -1,16 +1,5 @@
 <!-- ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> About me -->
 
-<div align="center">
-
-
-![冰梦's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-![profile](https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8)
-
-
-
-</div>
 
 <div align="center">
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
@@ -58,28 +47,16 @@ width="800"  height="3">
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git&style=flat)
 
 
-  <!-- knock code pictures 第一章动图 -->
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  <br>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=bingmeng158" alt="访客统计" title="访客统计" />
-  </div>
-
   <!-- GitHub 奖杯🏆 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cathead1024&theme=bingmeng158&row=1&column=6&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8" />
 </div>
 
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingmeng158&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bingmeng158&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true&locale=cn"/>
 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
 
-  <img src='https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
+  <img src='https://github-readme-stats.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
 </p>
 
 <!--彩虹分割线--> 
@@ -87,5 +64,3 @@ width="800"  height="3">
 <br/>
 <p align="center">建设中</p>
 </div>
-
-
