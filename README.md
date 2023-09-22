@@ -60,7 +60,7 @@ width="800"  height="3">
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingmeng158&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingmeng158&theme=dark&hide_border=true&locale=zh" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
