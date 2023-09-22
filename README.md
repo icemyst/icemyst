@@ -55,8 +55,19 @@ width="800"  height="3">
   <img src='https://github-readme-stats.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
 </p>
 
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingmeng158&theme=dark&hide_border=true" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
+
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <br/>
 <p align="center">建设中</p>
 </div>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bingmeng158&theme=dark)](https://git.io/streak-stats) -->
