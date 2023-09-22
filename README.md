@@ -44,7 +44,10 @@ width="800"  height="3">
 
 
   <!-- GitHub 奖杯🏆 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8" /> -->
+
+  <!-- GitHub 奖杯🏆 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 
 
@@ -61,6 +64,7 @@ width="800"  height="3">
 ## 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bingmeng158&theme=dark)](https://git.io/streak-stats) -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingmeng158&theme=dark&hide_border=true&locale=zh" />
@@ -70,9 +74,10 @@ width="800"  height="3">
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <br/>
-<p align="center">建设中</p>
 </div>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bingmeng158&theme=dark)](https://git.io/streak-stats) -->
-
-
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bingmeng158.visitor-badge" alt="访客统计" title="访客统计" />
+</div>
