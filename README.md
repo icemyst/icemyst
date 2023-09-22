@@ -42,11 +42,9 @@ width="800"  height="3">
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git&style=flat)
 
-
+<div align="center">
   <!-- GitHub 奖杯🏆 -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8" /> -->
-
-  <!-- GitHub 奖杯🏆 -->
   <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 
