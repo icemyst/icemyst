@@ -44,8 +44,8 @@ width="800"  height="3">
 
 <div align="center">
   <!-- GitHub 奖杯🏆 -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=algolia&column=8" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bingmeng158&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=algolia&column=8" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 
 
@@ -53,19 +53,19 @@ width="800"  height="3">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
 
-  <img src='https://github-readme-stats.vercel.app/api?username=bingmeng158&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
+  <img src='https://github-readme-stats.vercel.app/api?username=icemyst&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
 </p>
 
 
-![bingmeng158's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bingmeng158&theme=github-compact)
+![icemyst's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icemyst&theme=github-compact)
 
 ## 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bingmeng158&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=icemyst&theme=dark)](https://git.io/streak-stats) -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bingmeng158&theme=dark&hide_border=true&locale=zh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&theme=dark&hide_border=true&locale=zh" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
@@ -77,5 +77,5 @@ width="800"  height="3">
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bingmeng158.visitor-badge" alt="访客统计" title="访客统计" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=icemyst.visitor-badge" alt="访客统计" title="访客统计" />
 </div>
