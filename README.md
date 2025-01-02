@@ -11,7 +11,7 @@
 width="800"  height="3">
 </div>
 
-**Preview**：From icedream, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
+**Preview**：From icemyst, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
 **Blog**：[冰梦の博客：一个分享和记录的地方](https://hcer.top)
 
