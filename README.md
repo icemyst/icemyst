@@ -15,7 +15,7 @@ width="800"  height="3">
 
 **Blog**：[冰梦の博客：一个分享和记录的地方](https://hcer.top)
 
-**Contact**：icemyst@outlook.com
+**Contact**：icemystz@outlook.com
 
   <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
