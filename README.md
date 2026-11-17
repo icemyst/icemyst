@@ -1,68 +1,94 @@
-👋 Hey, I'm icemyst!
-
-<p align="center">   <img src="https://count.getloli.com/get/@冰梦?theme=rule34" alt="Visitor Count" /> </p>
-
-<h1 align="center">Hey, I'm icemyst! 👏</h1>
-
-<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%86%B0%E6%A2%A6%E7%9A%84+GitHub%EF%BC%81;Code+%7C+Create+%7C+Explore;Keep+Learning%2C+Keep+Building!" alt="Typing SVG" /> </p>
-
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" /> </p>
-
-🌱 About Me
-
-Name: icemyst
-Location: China 🇨🇳
-Role: Student 🎓
-Interests:
-  - Coding & Technology 💻
-  - Photography 📷
-  - Open Source 🌐
-  - Exploring New Things 🚀
-
-🏝️ From China, currently exploring the world of technology.
-
-💻 Passionate about coding and building interesting things.
-
-📷 Love capturing beautiful moments through photography.
-
-🌿 Always curious about new technologies and possibilities.
-
-<p align="center">   🌐 <b>Blog:</b> <a href="https://icemyst.github.io">冰梦の博客</a>     |     📧 <b>Email:</b> <a href="mailto:icemystz@outlook.com">icemystz@outlook.com</a> </p>
-
-🛠️ Tech Stack & Tools
-
-<p align="center">   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,vscode,linux,windows,android&perline=6" /> </p>
-
-🔧 Daily Tools
-
-<p align="center">   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />   <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />   <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" />   <img src="https://img.shields.io/badge/Xiaomi-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" /> </p>
-
-📊 GitHub Analytics
-
-<p align="center">   <img height="180" src="https://github-readme-stats.vercel.app/api?username=icemyst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemyst&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
-
-<p align="center">   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=icemyst&theme=tokyo-night&hide_border=true&area=true" /> </p>
-
-🏆 GitHub Trophies
-
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@冰梦?theme=rule34"></a>
 </p>
 
-🔥 Contribution Streak
+<h1 align="center">
+  Hey, I'm icemyst!👏
+</h1>
+
+<div align="center">
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+</div>
+
+**Preview**：From icemyst, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
+
+**Blog**：[冰梦の博客：一个分享和记录的地方](https://icemyst.github.io)
+
+**联系**：icemystz@outlook.com
+
+  <!-- dynamic typing effect 动态打字效果 -->
+<div align="center">
+    <a href="https:/icemyst.github.io">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到冰梦的Github!;欢迎来到冰梦的Github!&center=true&size=27" alt="Typing SVG" />
+    </a>
+</div>
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68908911" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=dark" width="auto" height="auto">
+    <img alt="Dashboard stats of @icemyst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=light" width="auto" height="auto">
+  </picture>
+</a>
+
+## 💻 Tech Stack
+
+![header_](https://user-images.githubusercontent.com/79493862/257055118-543c5ef4-bae2-45c3-9742-04af4b56cda1.png)
+
+🧰 常用的工具:
+
+&emsp;&emsp;
+![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black&style=flat)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&style=flat)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white&style=flat)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git&style=flat)
+
+<div align="center">
+  <!-- GitHub 奖杯🏆 -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=algolia&column=8" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+</div>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
+
+  <img src='https://github-readme-stats.vercel.app/api?username=icemyst&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
 </p>
 
-🌐 GitHub Profile
 
-<p align="center">   <a href="https://github.com/icemyst">     <img src="https://img.shields.io/badge/GitHub-icemyst-181717?style=for-the-badge&logo=github" />   </a>   <a href="https://icemyst.github.io">     <img src="https://img.shields.io/badge/Blog-冰梦的博客-36BCF7?style=for-the-badge&logo=hexo&logoColor=white" />   </a> </p>
+![icemyst's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icemyst&theme=github-compact)
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p>
+## 🚀 Action
 
-<p align="center">   <b>✨ Thanks for visiting my GitHub profile! ✨</b> </p>
+<!-- 连续提交代码天数记录 -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=icemyst&theme=dark)](https://git.io/streak-stats) -->
 
 <p align="center">
-  <i>Keep coding, keep creating, and keep exploring.</i>
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&theme=dark&hide_border=true&locale=zh" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
+
+<!-- Copy-paste in your Readme.md file -->
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!--彩虹分割线--> 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<br/>
+</div>
+
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=icemyst.visitor-badge" alt="访客统计" title="访客统计" />
+</div>
