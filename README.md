@@ -129,7 +129,9 @@ Motto: Keep Coding, Keep Exploring.
 🔥 Contribution Streak
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=icemyst&theme=transparent&hide_border=true&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+    <img align="center" src="https://streak-stats.demolab.com?user=icemyst&theme=transparent&hide_border=true&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
 <!-- Contribution Graph -->
