@@ -25,16 +25,12 @@ width="800"  height="3">
 </div>
 
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=899814227" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68908911" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=899814227&image_size=auto&color_scheme=dark" width="auto" height="auto">
-    <img alt="Pull Request Size of icemyst/hexo-theme-icemyst" src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=899814227&image_size=auto&color_scheme=light" width="auto" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=dark" width="auto" height="auto">
+    <img alt="Dashboard stats of @icemyst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=light" width="auto" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ## 💻 Tech Stack
 
@@ -82,13 +78,6 @@ width="800"  height="3">
 </p> -->
 
 <!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68908911" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=dark" width="auto" height="auto">
-    <img alt="Dashboard stats of @icemyst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=light" width="auto" height="auto">
-  </picture>
-</a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
