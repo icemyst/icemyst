@@ -40,11 +40,9 @@ width="800"  height="3">
 
 <p align="center">   <img src="https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=xiaomi&logoColor=white" alt="Xiaomi" />   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Google Chrome" />   <img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" alt="Microsoft Edge" />   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> </p>
 
-<div align="center">
-  <!-- GitHub 奖杯🏆 -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=algolia&column=8" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
+<p align="center">   <img src="https://streak-stats.demolab.com?user=icemyst&theme=transparent&hide_border=true&locale=zh" /> </p>
+
+<p align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=icemyst&theme=github-compact&hide_border=true" /> </p>
 
 
 <p align="center">
