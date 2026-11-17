@@ -75,11 +75,22 @@ width="800"  height="3">
 
 <!-- 连续提交代码天数记录 -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=icemyst&theme=dark)](https://git.io/streak-stats) -->
-<p align="center">
+<!-- <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&theme=dark&hide_border=true&locale=zh" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p>
+</p> -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68908911" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=dark" width="auto" height="auto">
+    <img alt="Dashboard stats of @icemyst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=light" width="auto" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
