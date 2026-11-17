@@ -1,94 +1,142 @@
-<p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@冰梦?theme=rule34"></a>
-</p>
-
-<h1 align="center">
-  Hey, I'm icemyst!👏
-</h1>
+<!-- ==================== Header ==================== -->
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="800"  height="3">
-</div>
 
-**Preview**：From icemyst, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ICEMYST&fontSize=70&fontColor=ffffff&color=0:667eea,100:764ba2&stroke=667eea&animation=fadeIn&fontAlignY=45&desc=Code%20%7C%20Create%20%7C%20Explore&descSize=18&descAlignY=65" />
 
-**Blog**：[冰梦の博客：一个分享和记录的地方](https://icemyst.github.io)
+<br/>
 
-**联系**：icemystz@outlook.com
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B9EFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Stay+curious%2C+keep+creating.;Building+something+interesting..." />
 
-  <!-- dynamic typing effect 动态打字效果 -->
-<div align="center">
-    <a href="https:/icemyst.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到冰梦的Github!;欢迎来到冰梦的Github!&center=true&size=27" alt="Typing SVG" />
-    </a>
-</div>
+<br/>
 
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68908911" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=dark" width="auto" height="auto">
-    <img alt="Dashboard stats of @icemyst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68908911&image_size=auto&color_scheme=light" width="auto" height="auto">
-  </picture>
+<a href="https://github.com/icemyst">
+<img src="https://komarev.com/ghpvc/?username=icemyst&label=PROFILE+VIEWS&color=667eea&style=flat-square" />
+</a>
+&nbsp;
+<a href="https://github.com/icemyst?tab=followers">
+<img src="https://img.shields.io/github/followers/icemyst?label=FOLLOWERS&style=flat-square&color=764ba2" />
 </a>
 
-## 💻 Tech Stack
-
-![header_](https://user-images.githubusercontent.com/79493862/257055118-543c5ef4-bae2-45c3-9742-04af4b56cda1.png)
-
-🧰 常用的工具:
-
-&emsp;&emsp;
-![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black&style=flat)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&style=flat)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white&style=flat)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git&style=flat)
-
-<div align="center">
-  <!-- GitHub 奖杯🏆 -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=algolia&column=8" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 
+<!-- ==================== About ==================== -->
 
-<p align="center">
+## 👨‍💻 About Me
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <img src='https://github-readme-stats.vercel.app/api?username=icemyst&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn'>
-</p>
+### Hi, I'm icemyst 👋
 
+一个热爱技术、喜欢折腾与探索的开发者。
 
-![icemyst's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icemyst&theme=github-compact)
+- 🌏 Based in China
+- 🎓 Student & Technology Enthusiast
+- 💻 Interested in Coding & Open Source
+- 📷 Photography lover
+- 🌱 Always learning something new
 
-## 🚀 Action
+**My philosophy**
 
-<!-- 连续提交代码天数记录 -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=icemyst&theme=dark)](https://git.io/streak-stats) -->
+> Stay curious. Keep learning. Make things better.
 
-<p align="center">
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&theme=dark&hide_border=true&locale=zh" />
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p>
+</td>
+<td width="40%" align="center" valign="middle">
 
-<!-- Copy-paste in your Readme.md file -->
+<img width="180" src="https://github.com/user-attachments/assets/placeholder" alt="Profile illustration" />
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+**冰梦 · icemyst**
 
-<!--彩虹分割线--> 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+*记录灵感，探索技术，分享生活。*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-冰梦の博客-667eea?style=for-the-badge&logo=hexo&logoColor=white)](https://icemyst.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-764ba2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:icemystz@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-icemyst-181717?style=for-the-badge&logo=github)](https://github.com/icemyst)
+
+</div>
+
+---
+
+<!-- ==================== Tech Stack ==================== -->
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github&theme=dark" />
+
+<br/><br/>
+
+**Environment & Tools**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,android,vscode,ps,github&theme=dark" />
+
+</div>
+
+---
+
+<!-- ==================== GitHub Stats ==================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/icemyst">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=icemyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b9eff&icon_color=8b9eff&text_color=c9d1d9&rank_icon=github" />
+</a>
+
+<a href="https://github.com/icemyst">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemyst&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b9eff&text_color=c9d1d9&langs_count=6" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=icemyst&bg_color=0d1117&color=8b9eff&line=667eea&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=icemyst&background=0d1117&border=0d1117&stroke=667eea&ring=8b9eff&fire=8b9eff&currStreakLabel=8b9eff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
 </div>
 
-<!-- profile logo 个人资料徽标 -->
+---
+
+## 🏆 Achievements
+
 <div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=icemyst.visitor-badge" alt="访客统计" title="访客统计" />
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=icemyst&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" />
+
+</div>
+
+---
+
+<!-- ==================== Footer ==================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+### Thanks for stopping by! ✨
+
+**Made with ❤️ by icemyst**
+
+[![Blog](https://img.shields.io/badge/Visit_My_Blog-icemyst.github.io-667eea?style=flat-square)](https://icemyst.github.io)
+
 </div>
