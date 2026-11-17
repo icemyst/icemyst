@@ -1,3 +1,8 @@
+<p align="right">
+  <strong>English</strong> ·
+  <a href="./README_CN.md">简体中文</a>
+</p>
+ 
  <!--
   ICEMYST · GITHUB PROFILE
   Minimal Cyberpunk Edition
