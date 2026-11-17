@@ -116,8 +116,12 @@ Motto: Keep Coding, Keep Exploring.
 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=icemyst&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemyst&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/icemyst">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=icemyst&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FF7&text_color=C9D1D9" alt="icemyst GitHub Statistics" />
+  </a>
+  <a href="https://github.com/icemyst">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=icemyst&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="icemyst Top Languages" />
+  </a>
 </p>
 
 <!-- Contribution Streak -->
